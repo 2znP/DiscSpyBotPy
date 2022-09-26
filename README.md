@@ -1,8 +1,8 @@
-//Um script basico para um bot espião do discord//
+Um script basico para um bot espião do discord:
 
-*O bot salva por padrão todas as mensagens capturadas em log.txt
+    *O bot salva por padrão todas as mensagens capturadas em log.txt
 
-*O bot por padrão mantem seu status como offline
+    *O bot por padrão mantem seu status como offline
 
 Instalação:
 
